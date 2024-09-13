@@ -1,1 +1,1 @@
-This directory contains the Jupyter Notebook file used when exploring the ```temp_yield.csv``` dataset, and the relevant data visualizations obtained through exploratory data analysis.
+The Jupyter Notebook file ```dataviz.ipynb``` contains the information and data visualizations obtained through exploratory analysis on the ```temp_yield.csv``` dataset.
