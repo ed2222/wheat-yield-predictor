@@ -1,0 +1,46 @@
+[
+    {
+        "United States of America": {
+            "lat": 38.66,
+            "long": -101.08
+        }
+    },
+    {
+        "Canada": {
+            "lat": 51.05,
+            "long": -116
+        }
+    },
+    {
+        "Russian Federation": {
+            "lat": 49.10,
+            "long": 41.03
+        }
+    },
+    {
+        
+        "Australia": {
+            "lat": -36.04,
+            "long": 143.5
+        }
+    },
+    {
+        "Ukraine": {
+            "lat": 48.9,
+            "long": 32.12
+        }
+    },
+    {
+        "China": {
+            "lat": 36.27,
+            "long": 115.55
+        }
+    },
+    {
+        "India": {
+            "lat": 25.68,
+            "long": 79.60
+        }
+    }
+
+]

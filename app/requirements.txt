@@ -1,0 +1,12 @@
+openpyxl
+pandas
+streamlit
+plotly
+matplotlib
+seaborn
+numpy
+scikit-learn
+geopy
+openmeteo-requests
+requests-cache 
+retry-requests
