@@ -52,7 +52,7 @@ Variables used for model training :
 [2]https://www.nature.com/articles/s41467-020-16970-7
 
 
-### Web app
+## Web app
 
 Link to the openmeteo API : https://open-meteo.com/
 
